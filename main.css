@@ -1,0 +1,12 @@
+.getDataBtn{
+    background: lightblue;
+    width: 10rem;
+    height: 2rem;
+}
+
+.getDataBtn:hover{
+    cursor: pointer;
+    background: black;
+    color: white;
+    transition: 1s;
+}
